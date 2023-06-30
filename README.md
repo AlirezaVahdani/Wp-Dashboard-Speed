@@ -7,12 +7,10 @@ some of functions that is used :
 
 1. Block external request to e.g yoast,elementro &...
 2. Disable emoji
-3. Disable auto update theme
-4. Disable auto update plugin
-5. Disable WooCommerce Marketing Hub & Analytics Menu
-6. Disable extensions menu WooCommerce
-7. Disable WooCommerce dashboard status widget
-8. Disable Wordpress Optional Tags (rsd_link &...)
+3. Disable WooCommerce Marketing Hub & Analytics Menu
+4. Disable extensions menu WooCommerce
+5. Disable WooCommerce dashboard status widget
+6. Disable Wordpress Optional Tags (rsd_link &...)
 
 
 for restoring changes to default configuration ,you can just disable the plugin :)
