@@ -10,8 +10,6 @@ some of functions that is used :
 3. Disable WooCommerce Marketing Hub & Analytics Menu
 4. Disable extensions menu WooCommerce
 5. Disable WooCommerce dashboard status widget
-6. Disable Wordpress Optional Tags (rsd_link &...)
-
 
 for restoring changes to default configuration ,you can just disable the plugin :)
 
