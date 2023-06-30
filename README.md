@@ -1,5 +1,5 @@
 # Wp-Dashboard-Speed
-This plugin makes wordpress faster while working in WP-Dashboard ;) just Test it
+This lightweight plugin makes wordpress faster while working in WP-Dashboard ;) just Test it
 
 I have used some function that can block external requests that makes wordpress slower
 
